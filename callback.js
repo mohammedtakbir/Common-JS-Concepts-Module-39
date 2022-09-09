@@ -11,7 +11,6 @@ function greetNight(name){
     console.log('good morning', name)
 }
 
-
 greeting(greetingHandler, 'Tom hanks');
 greeting(greetEvening, 'Tom Hardy');
 greeting(greetNight, 'Tom Hiddleson')

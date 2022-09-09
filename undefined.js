@@ -30,6 +30,8 @@ const fifth = {name: 'takbir', age: 22}
 // console.log(fifth.name, fifth.sallery)
 
 //? 6. accessing array elements outside of the index range
+const numbers = [12, 23, 34, 56, 67];
+// console.log(numbers[1], numbers[5], numbers[100])
 
 //? 7. deleting an element inside an array
 const sixth = [12, 34, 45, 56, 67, 78];

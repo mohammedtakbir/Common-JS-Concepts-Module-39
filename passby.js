@@ -1,7 +1,7 @@
+//* primitive types data are pass by value
+
 let num1 = 5;
 let num2 = 7;
-
-//* primitive types data are pass by value
 function multiply(a, b){
     a = 27;
     const result = a * b;

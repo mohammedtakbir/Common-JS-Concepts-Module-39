@@ -21,5 +21,5 @@ var print10 = function(){ //! typeError: print10 is not a function. ekhane var =
 }
 test()
 const test = () => {
-    console.log('testing the arraw function')
+    console.log('testing the arrow function')
 }
